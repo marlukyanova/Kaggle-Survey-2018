@@ -4,7 +4,7 @@ I wanted to look if there is any difference in learning methods and resources be
 
 The analysis was done in Jupyter notebook. Used libraries: numpy, pandas, matplotlib, seaborn.
 
-Full exploratory analysis and visualization can be found in the 'kernel.ipunb' above.
+Full exploratory analysis and visualization can be found in the 'kernel.ipynb' above.
 
 Summary:
 
